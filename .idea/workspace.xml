@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18bdd4f6-c152-4dfc-a9b9-cf2eef7372fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2K986cTmL3L6rnrIrOCqRFVFOpH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Threads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_theme.first_max_interval.Main" />
+      <module name="Threads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first_theme.first_max_interval.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18bdd4f6-c152-4dfc-a9b9-cf2eef7372fd" name="Default Changelist" comment="" />
+      <created>1673375263717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673375263717</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1674158521513">
+      <screen x="0" y="25" width="1792" height="1031" />
+    </state>
+    <state x="360" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1031@0.25.1792.1031" timestamp="1674158521513" />
+    <state width="875" height="356" key="GridCell.Tab.0.bottom" timestamp="1674321250591">
+      <screen x="0" y="25" width="1792" height="1033" />
+    </state>
+    <state width="1750" height="505" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1673787033682" />
+    <state width="875" height="356" key="GridCell.Tab.0.bottom/0.25.1792.1031@0.25.1792.1031" timestamp="1674158534497" />
+    <state width="875" height="356" key="GridCell.Tab.0.bottom/0.25.1792.1033@0.25.1792.1033" timestamp="1674321250591" />
+    <state width="875" height="356" key="GridCell.Tab.0.center" timestamp="1674321250590">
+      <screen x="0" y="25" width="1792" height="1033" />
+    </state>
+    <state width="1750" height="505" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1673787033682" />
+    <state width="875" height="356" key="GridCell.Tab.0.center/0.25.1792.1031@0.25.1792.1031" timestamp="1674158534494" />
+    <state width="875" height="356" key="GridCell.Tab.0.center/0.25.1792.1033@0.25.1792.1033" timestamp="1674321250590" />
+    <state width="875" height="356" key="GridCell.Tab.0.left" timestamp="1674321250589">
+      <screen x="0" y="25" width="1792" height="1033" />
+    </state>
+    <state width="1750" height="505" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1673787033681" />
+    <state width="875" height="356" key="GridCell.Tab.0.left/0.25.1792.1031@0.25.1792.1031" timestamp="1674158534493" />
+    <state width="875" height="356" key="GridCell.Tab.0.left/0.25.1792.1033@0.25.1792.1033" timestamp="1674321250589" />
+    <state width="875" height="356" key="GridCell.Tab.0.right" timestamp="1674321250590">
+      <screen x="0" y="25" width="1792" height="1033" />
+    </state>
+    <state width="1750" height="505" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1673787033682" />
+    <state width="875" height="356" key="GridCell.Tab.0.right/0.25.1792.1031@0.25.1792.1031" timestamp="1674158534495" />
+    <state width="875" height="356" key="GridCell.Tab.0.right/0.25.1792.1033@0.25.1792.1033" timestamp="1674321250590" />
+    <state width="875" height="356" key="GridCell.Tab.1.bottom" timestamp="1674321250592">
+      <screen x="0" y="25" width="1792" height="1033" />
+    </state>
+    <state width="875" height="356" key="GridCell.Tab.1.bottom/0.25.1792.1031@0.25.1792.1031" timestamp="1674158534500" />
+    <state width="875" height="356" key="GridCell.Tab.1.bottom/0.25.1792.1033@0.25.1792.1033" timestamp="1674321250592" />
+    <state width="875" height="356" key="GridCell.Tab.1.center" timestamp="1674321250591">
+      <screen x="0" y="25" width="1792" height="1033" />
+    </state>
+    <state width="875" height="356" key="GridCell.Tab.1.center/0.25.1792.1031@0.25.1792.1031" timestamp="1674158534498" />
+    <state width="875" height="356" key="GridCell.Tab.1.center/0.25.1792.1033@0.25.1792.1033" timestamp="1674321250591" />
+    <state width="875" height="356" key="GridCell.Tab.1.left" timestamp="1674321250591">
+      <screen x="0" y="25" width="1792" height="1033" />
+    </state>
+    <state width="875" height="356" key="GridCell.Tab.1.left/0.25.1792.1031@0.25.1792.1031" timestamp="1674158534497" />
+    <state width="875" height="356" key="GridCell.Tab.1.left/0.25.1792.1033@0.25.1792.1033" timestamp="1674321250591" />
+    <state width="875" height="356" key="GridCell.Tab.1.right" timestamp="1674321250592">
+      <screen x="0" y="25" width="1792" height="1033" />
+    </state>
+    <state width="875" height="356" key="GridCell.Tab.1.right/0.25.1792.1031@0.25.1792.1031" timestamp="1674158534499" />
+    <state width="875" height="356" key="GridCell.Tab.1.right/0.25.1792.1033@0.25.1792.1033" timestamp="1674321250592" />
+    <state x="484" y="278" key="IDE.errors.dialog" timestamp="1674158472816">
+      <screen x="0" y="25" width="1792" height="1031" />
+    </state>
+    <state x="484" y="278" key="IDE.errors.dialog/0.25.1792.1031@0.25.1792.1031" timestamp="1674158472816" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/first_theme/first_max_interval/Main.java</url>
+          <line>9</line>
+          <properties class="first_theme.first_max_interval.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
